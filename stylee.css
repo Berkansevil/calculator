@@ -1,0 +1,64 @@
+.bg{
+    background-color: #FAF7F0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.title{
+    position: absolute;
+    top: 18%;
+    left: 43%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #182747;
+  
+   
+    
+}
+
+.cal{
+    width: 300px;
+    margin:0 auto;
+    margin-top:200px;
+    background-color: #497174;
+    padding: 20px;
+    border-radius: 15px;
+}
+.btn-custom{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px !important;
+    margin-bottom: 10px;
+}
+.btn-symbol{
+    background-color: #D6E4E5 !important;
+}
+.btn-yellow{
+    background-color: #fbc02d !important;
+    color:#fff !important;
+}
+.btn-number{
+    background-color: #424242 !important;
+    color: #fff !important;
+}
+.btn-number2{
+    width: 130px !important;
+    background-color: #424242 !important;
+    color: #fff !important;
+}
+
+#inputVal{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    text-align: right;
+    font-size: 50px;
+}
+
+#result{
+    color:#fff;
+    text-align: right;
+    font-size:50px;
+}
